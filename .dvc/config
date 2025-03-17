@@ -1,0 +1,4 @@
+[core]
+    remote = mydvcstorage
+['remote "mydvcstorage"']
+    url = s3://dvc-s3-bucket-new
